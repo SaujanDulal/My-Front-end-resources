@@ -6,6 +6,7 @@
 
 #### Single Page App
 - [What’s the Difference Between Single-Page and Multi-Page Apps](https://rubygarage.org/blog/single-page-app-vs-multi-page-app)(Read)
+- [SPAs vs MPAs/MVC - Are Single Page Apps always better? by Academind](https://www.youtube.com/watch?v=F_BYg2QGsC0)(Watch)
 
 #### Overriding the navigation
 - [React-router](https://www.youtube.com/watch?v=QUz3k2O3ZJU)(Watch)
