@@ -23,4 +23,57 @@
 #### Compositionn
 - [What is composition and why is it a key concept in your React apps](https://flaviocopes.com/react-composition/)(Read)
 
+
 #### Virtual DOM
+
+#### Unidirectional data flow
+
+#### JSX
+
+#### Forms in JSX
+
+#### Components
+
+#### State
+
+#### Props
+
+#### presentational vs container component
+
+#### State vs Props
+
+#### Proptypes
+
+#### Fragment
+
+#### Events
+
+#### Lifecycle events
+
+#### How to handle forms in react application
+
+#### How to reference a DOM element in React
+
+#### What is Server side rendering? How to do it with react? Server side rendering using libraries?
+
+#### Context API
+
+#### Higher Order Component
+
+#### Render Props
+
+#### Hooks
+
+#### Code Splitting
+
+#### Jest
+
+#### React Router
+
+#### Redux
+
+#### Next.js
+
+#### Gatsby
+
+#### Css in React
