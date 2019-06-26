@@ -13,6 +13,8 @@
 
 #### Declarative Programming & React
 - [“What does it mean when you read that React is declarative”](https://dev.to/itsjzt/declarative-programming--react-3bh2)(Read)
+- [Declarative programming - Fun Fun Function](https://www.youtube.com/watch?v=yGh0bjzj4IQ)(Watch)
+- [Declarative Vs Imperative Programming : What does it Means?](https://www.youtube.com/watch?v=6RAQynw2Sy8)(Watch)
 
 #### Immutability
 - [“What is immutability? And how does it fit in the React world?”](https://flaviocopes.com/react-immutability/)(Read)
