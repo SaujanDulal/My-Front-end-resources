@@ -19,6 +19,8 @@
 #### Immutability
 - [“What is immutability? And how does it fit in the React world?”](https://flaviocopes.com/react-immutability/)(Read)
 - [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide/)(Read)
+- [Immutable Javascript means that we're never going to change a value once it's been set on an object](https://www.youtube.com/watch?v=9M-r8p9ey8U)(Watch)
+- [ReactCasts #9 - Immutability in JavaScript](https://www.youtube.com/watch?v=4LzcQyZ9JOU)(Watch)
 
 #### React and Purity
 - [“What is purity, a pure function and a pure component”](https://www.leighhalliday.com/react-purity)(read)
