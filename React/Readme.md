@@ -24,6 +24,7 @@
 
 #### React and Purity
 - [“What is purity, a pure function and a pure component”](https://www.leighhalliday.com/react-purity)(read)
+- [Pure Functional Components in React 16.6](https://logrocket.com/blog/pure-functional-components/)(Read)
 
 #### Compositionn
 - [What is composition and why is it a key concept in your React apps](https://flaviocopes.com/react-composition/)(Read)
