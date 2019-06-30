@@ -3,6 +3,10 @@
 #### Definition 
 - [What is React- by Mosh](https://www.youtube.com/watch?v=N3AkSS5hXMA)(watch)
 - [Complete React Tutorial (with Redux) by net-ninja](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)(Watch)
+- [React.js for the Visual Learner](https://leanpub.com/reactjsforthevisuallearner/read#leanpub-auto-chapter-2--what-is-react-and-why-is-it-cool)(Read)
+- [SURVIVEJS - REACT](https://survivejs.com/react/introduction/)(read)
+- [14 Best Free Resources for Learning React](https://metabox.io/free-react-resources/)(read)
+- [React-in-depth](https://developmentarc.gitbooks.io/react-indepth/content/)(Read)
 
 #### Single Page App
 - [What’s the Difference Between Single-Page and Multi-Page Apps](https://rubygarage.org/blog/single-page-app-vs-multi-page-app)(Read)
@@ -28,6 +32,8 @@
 
 #### Compositionn
 - [What is composition and why is it a key concept in your React apps](https://flaviocopes.com/react-composition/)(Read)
+- [Composition vs Inheritance](https://programmingwithmosh.com/react/react-composition-vs-inheritance/)(Read)
+- [JavaScript Composition vs Inheritance](https://www.youtube.com/watch?v=7HolHe7Gqbw)(Watch)
 
 
 #### Virtual DOM
