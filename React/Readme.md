@@ -7,6 +7,7 @@
 - [SURVIVEJS - REACT](https://survivejs.com/react/introduction/)(read)
 - [14 Best Free Resources for Learning React](https://metabox.io/free-react-resources/)(read)
 - [React-in-depth](https://developmentarc.gitbooks.io/react-indepth/content/)(Read)
+- [How react works by mat greer](https://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)(Read)
 
 #### Single Page App
 - [What’s the Difference Between Single-Page and Multi-Page Apps](https://rubygarage.org/blog/single-page-app-vs-multi-page-app)(Read)
@@ -37,12 +38,21 @@
 
 
 #### Virtual DOM
+- [How React Works behind the scenes - Pluralsight audition](https://www.youtube.com/watch?v=gApwC9Ek9yo)(Watch)
+- [Understanding Virtual DOM? Concept behind Virtual DOM? ](https://www.youtube.com/watch?v=dxz9HZ40h4I&list=PLynWqC6VC9KOYfQCImyKXCiMux_a_SjMw&index=2)(Watch)
+
 
 #### Unidirectional data flow
+- [Understanding Unidirectional Data Flow](https://www.youtube.com/watch?v=cZAy43GEANc)(Watch)
+- [Unidirectional Data Flow in React](https://flaviocopes.com/react-unidirectional-data-flow/)(read)
+- [React Design Patterns for Beginners : Data Flow | packtpub.com](https://www.youtube.com/watch?v=hO8u07-WTOk)(Watch)
 
 #### JSX
+- [Getting started with JSX](https://flaviocopes.com/jsx/)(Read)
+- [What is JSX? Use of JSX in React ](https://www.youtube.com/watch?v=ELQvmmxqDHI&list=PLynWqC6VC9KOYfQCImyKXCiMux_a_SjMw&index=11)(Watch)
 
-#### Forms in JSX
+#### Inline Conditionals
+
 
 #### Components
 
@@ -50,11 +60,11 @@
 
 #### Props
 
-#### presentational vs container component
+#### presentational vs container component ,component vs pureComponent vs Functional Stateless Componen
 
 #### State vs Props
 
-#### Proptypes
+#### Proptypes and defaultPropTypes
 
 #### Fragment
 
@@ -83,6 +93,7 @@
 #### React Router
 
 #### Redux
+- [React Context vs Redux - Who wins?](https://www.youtube.com/watch?v=OvM4hIxrqAw)(Watch)
 
 #### Next.js
 
@@ -91,5 +102,12 @@
 #### Css in React
 
 
+#### ESLint
+
+
+#### ReactDev tools
+
+
 #### Tutorials
 - [Learn React - React Crash Course [2019] - React Tutorial with Examples | Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=4700s)(Watch)
+- [React for beginner by Daily tution](https://www.youtube.com/watch?v=ELQvmmxqDHI&list=PLynWqC6VC9KOYfQCImyKXCiMux_a_SjMw&index=11)(Watch)
