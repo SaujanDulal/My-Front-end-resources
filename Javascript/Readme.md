@@ -148,6 +148,10 @@
 - [JavaScript Functional Programming Tutorial](https://www.youtube.com/watch?v=6NPfQJJEySY&index=5&list=PL9ZqDLjDY8PmVejsIWIShSizE6TFwC9tE)(Watch)
 - [Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)(Watch)
 
+
+### Regular expression
+- [Regular Expressions (RegEx) Learn and Master](https://www.youtube.com/watch?v=wk6d15FFD-k&list=PLe30vg_FG4OSyqlTXN9CHT9-J1Y_U3QuL)(Watch)
+
 ### How javascript works under the hood?
 - [Syntax parser](https://medium.com/@easyexpresssoft/javascript-syntax-parser-4b7f3f320ebe)(read)
 - [How does V8 parse JavaScript and how does it decide what parts to parse / compile upfront?](https://www.youtube.com/watch?v=Fg7niTmNNLg)(watch)
