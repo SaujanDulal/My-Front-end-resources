@@ -129,3 +129,4 @@
 - [React by codeevolution](https://www.youtube.com/watch?v=4ORZ1GmjaMc&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=10)(Watch)
 - [React by tecsith](https://www.youtube.com/watch?v=bUTsVY6VUQA&list=PL7pEw9n3GkoVAqCMVTz2mKthyWr-svpQJ)(watch)
 - [Advance react by tecsith](https://www.youtube.com/watch?v=UMo9_W8lPbs&list=PL7pEw9n3GkoUZX3e9lBbmQqdCpgAWYooz)(Watch)
+- [React Tutorials Series by Bitfumes](https://www.youtube.com/watch?v=tUdeA14wpQQ&list=PLe30vg_FG4OT1gN7waO7ESyrn7EfI_fG-)(Watch)
