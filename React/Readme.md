@@ -113,6 +113,8 @@
 
 #### Redux
 - [React Context vs Redux - Who wins?](https://www.youtube.com/watch?v=OvM4hIxrqAw)(Watch)
+- [Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)(Watch)
+- [React Redux Tutorial for Beginners, learning Redux in 2018](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)(Read)
 
 #### Next.js
 
