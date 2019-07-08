@@ -3,6 +3,7 @@
 #### In general
 - [How react works- It goes over the virtual DOM, the diffing algorithm, optimizations that the diffing algorithm uses to speed up the process. There is also a bit on some tools that you can use to optimize and speed up your React app](https://www.youtube.com/watch?v=mLMfx8BEt8g)(Watch)
 - [Tech Talk: What is the Virtual DOM?](https://www.youtube.com/watch?v=d7pyEDqBDeE)(Watch)
+- [React basic](https://jscomplete.com/learn/react-beyond-basics/introduction)(read)
 
 #### Definition 
 - [What is React- by Mosh](https://www.youtube.com/watch?v=N3AkSS5hXMA)(watch)
