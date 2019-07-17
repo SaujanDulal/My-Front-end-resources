@@ -12,6 +12,8 @@
  #### Units
 - [CSS Units (CSS Lengths: rems, ems, pixels, percents, and more)](https://www.youtube.com/watch?v=qrduUUdxBSY&t=684s)(Watch)
 - [REM or EM — What should I use??](https://www.youtube.com/watch?v=UHf3aQz50jQ)(Watch)
+- [Font-size : 62.5%](https://medium.com/code-better/css-units-for-font-size-px-em-rem-79f7e592bb97)(read)
+- [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)(read)
 
  #### Base styles
 - [My CSS reset](https://zellwk.com/blog/css-reset/)(Read)
