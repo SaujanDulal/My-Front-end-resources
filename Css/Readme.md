@@ -74,6 +74,7 @@
 - [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139)(Read)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts](https://cssguidelin.es/)(Read)
 - [100 CSS and JavaScript tutorials to boost your skills](https://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)(Read)
+- [When to use IMG vs. CSS background-image?](https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)(read)
 
 
 ### Specificity
