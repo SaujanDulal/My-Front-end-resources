@@ -105,6 +105,8 @@
 #### Render Props
 
 #### Hooks
+- [Hooks blog by james](https://frontarm.com/articles/)(read)
+- [Validating Form - custom hooks](https://upmostly.com/tutorials/form-validation-using-custom-react-hooks)(read)
 
 #### Code Splitting
 
