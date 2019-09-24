@@ -1,0 +1,1 @@
+- [[My Learnings] From Writing My First Line of Code to a $226K Job Offer in 8 Months](https://hackernoon.com/how-i-went-from-writing-my-first-line-of-code-to-a-dollar226k-job-offer-in-just-8-months-r71je30ww)(read)
