@@ -10,7 +10,8 @@
 ### Website rendering
 - [What is the difference between client-side and server-side rendering? Why is server-side rendering required for React and Redux?](https://www.quora.com/What-is-the-difference-between-client-side-and-server-side-rendering-Why-is-server-side-rendering-required-for-React-and-Redux)(read)
 - [Client Side vs Server Side Programming - Basic Concepts](https://www.youtube.com/watch?v=1SwWo0wHx6Q)(read)
-- [The 3 Ways Web Apps Generate Pages(Server-Side Rendering vs. Client-Side Rendering vs. Static Rendering of web apps.) - which is best?](https://www.youtube.com/watch?v=XNWrTK1_9ag)(read)
+- [The 3 Ways Web Apps Generate Pages(Server-Side Rendering vs. Client-Side Rendering vs. Static Rendering of web apps.) - which is best?](https://www.youtube.com/watch?v=XNWrTK1_9ag)(watch)
+- [Single Page Applications (SPA) vs Static Generators vs Universal Apps](https://www.youtube.com/watch?v=HShGyGiJQuM)(watch)
 
 ### Free template 
 - [Colorlib](https://colorlib.com/wp/)(read)
