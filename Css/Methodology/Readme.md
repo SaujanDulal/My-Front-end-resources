@@ -17,3 +17,13 @@
 - [4 ways to create CSS that's modular and scalable](https://www.creativebloq.com/css3/create-modular-and-scalable-css-9134351)(Read)
    ##### Sass and Bem
    - [Structuring CSS Class Selectors with Sass](https://www.sitepoint.com/structuring-css-class-selectors-with-sass/)(Read)
+
+
+
+### Modular css file structure/architecture
+- [Zell modular css series](https://www.google.com/search?q=zell+modular+css&oq=zell+modular+css&aqs=chrome..69i57j69i60l3.10775j1j9&sourceid=chrome&ie=UTF-8)(Read)
+- [Front-End Architecture | Setting Up & Organizing your Website Projects | Coding Tutorial](https://www.youtube.com/watch?v=gFKsEab2-iA)(Watch)
+- [CSS Architecture with SMACSS (feat. Caleb Meredith)](https://www.youtube.com/watch?v=6co781JgoqQ)(Watch)
+- [If you've ever experienced pain when writing or maintaining CSS, then you'll find useful information in this book. And if you work in a team, this book can serve as documentation.](https://maintainablecss.com/chapters/introduction/)(Read)
+- [Sass: Directory Structures That Help You Maintain Your Code - Read his other blog post too. They looked fascinating](https://vanseodesign.com/css/sass-directory-structures/)(Read)
+- [CSS Architecture by philip walton, Look at his other articles too. They looks interesting and informative](https://philipwalton.com/articles/css-architecture/)(Read)
