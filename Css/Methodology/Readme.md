@@ -1,8 +1,12 @@
 
 ## Css Methodologies 
+
+### Different styling options in css
  - [CSS Evolution: From CSS, SASS, BEM, CSS Modules to Styled Components](https://medium.com/@perezpriego7/css-evolution-from-css-sass-bem-css-modules-to-styled-components-d4c1da3a659b)(read)
+ - [Styling In Modern Web Apps - Let’s walk through BEM, preprocessors, CSS-in-JS and even design systems to find out what works best for you.](https://www.smashingmagazine.com/2019/06/styling-modern-web-apps/)(read)
  
   ### BEM
+  - [a large list of resources - github bem](https://github.com/sturobson/BEM-resources/blob/master/README.md)(read)
 - [Writing modular CSS with BEM - Block, Element, Modifier in 6 minutes](https://www.youtube.com/watch?v=iyR6RXUZFQ8)(Watch)
 - [CSS Naming Conventions that Will Save You Hours of Debugging(BEM)](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 - [All Css Methodologies](https://css-tricks.com/methods-organize-css/)
