@@ -118,6 +118,9 @@
 - [React Context vs Redux - Who wins?](https://www.youtube.com/watch?v=OvM4hIxrqAw)(Watch)
 - [Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)(Watch)
 - [React Redux Tutorial for Beginners: The Definitive Guide (2019) by valentigo](https://www.valentinog.com/blog/redux/#React_Redux_tutorial_what_is_a_Redux_middleware)(read)
+  ##### Asynchronous 
+- [Redux-Thunk vs. Redux-Saga](https://medium.com/@shoshanarosenfield/redux-thunk-vs-redux-saga-93fe82878b2d)(read)
+- [Redux-saga series](https://www.youtube.com/watch?v=0L99n06F2rU&list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39)(watch)
 
 #### Next.js
 
