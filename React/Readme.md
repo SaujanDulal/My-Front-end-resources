@@ -121,6 +121,7 @@
   ##### Asynchronous 
 - [Redux-Thunk vs. Redux-Saga](https://medium.com/@shoshanarosenfield/redux-thunk-vs-redux-saga-93fe82878b2d)(read)
 - [Redux-saga series](https://www.youtube.com/watch?v=0L99n06F2rU&list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39)(watch)
+- [Redux Sagas](https://medium.com/@aksudupa11/redux-sagas-714370b61692)(*read)
 
 #### Next.js
 
