@@ -6,7 +6,8 @@
  - [Styling In Modern Web Apps - Let’s walk through BEM, preprocessors, CSS-in-JS and even design systems to find out what works best for you.](https://www.smashingmagazine.com/2019/06/styling-modern-web-apps/)(read)
  
   ### BEM
-  - [a large list of resources - github bem](https://github.com/sturobson/BEM-resources/blob/master/README.md)(read)
+- [BEM I (finally) understand](https://m.alphasights.com/bem-i-finally-understand-b0c74815d5b0)(read)  
+- [a large list of resources - github bem](https://github.com/sturobson/BEM-resources/blob/master/README.md)(read)
 - [Writing modular CSS with BEM - Block, Element, Modifier in 6 minutes](https://www.youtube.com/watch?v=iyR6RXUZFQ8)(Watch)
 - [CSS Naming Conventions that Will Save You Hours of Debugging(BEM)](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 - [All Css Methodologies](https://css-tricks.com/methods-organize-css/)
