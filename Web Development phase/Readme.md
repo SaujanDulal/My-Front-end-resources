@@ -1,3 +1,7 @@
+## How to build website?
+- [How to make website in 11 steps](https://www.youtube.com/watch?v=_bjF0BCXz6g)(watch)
+
+
 ## Design Process
 - [All you need to know about mockups, wireframes, and prototypes : Confused by design terminology? Discover the real differences between these three project elements.](https://www.creativebloq.com/web-design/jargon-wireframes-mockups-prototypes-51514898)(Read)
 - [Design Better And Faster With Rapid Prototyping](https://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)(Read)
