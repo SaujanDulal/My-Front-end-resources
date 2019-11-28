@@ -24,3 +24,7 @@
 - [Front-End Architecture | Setting Up & Organizing your Website Projects | Coding Tutorial](https://www.youtube.com/watch?v=gFKsEab2-iA&t=6s)(Watch)
 - [How I work as Front end Developer](https://www.youtube.com/watch?v=8HvNJ81VzBA)(Watch)
 
+
+## Uploading a website online
+- [How to Easily Upload a Website - html/css](https://www.youtube.com/watch?v=P9MB218jzF4&t=91s)(watch)
+- [Full series - static and dynamic website upload](https://www.youtube.com/watch?v=nfwCX_SG57g&list=PLKFFjVhORs0VVVSUzVdp5MO08Dn2EsPm5)(watch)
