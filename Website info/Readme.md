@@ -13,6 +13,10 @@
 - [The 3 Ways Web Apps Generate Pages(Server-Side Rendering vs. Client-Side Rendering vs. Static Rendering of web apps.) - which is best?](https://www.youtube.com/watch?v=XNWrTK1_9ag)(watch)
 - [Single Page Applications (SPA) vs Static Generators vs Universal Apps](https://www.youtube.com/watch?v=HShGyGiJQuM)(watch)
 
+## Performance
+ - [Perceived Performance - Don't Forget the User - How to load your website faster](https://www.keycdn.com/blog/perceived-performance)(read)
+
+
 ### Free template 
 - [Colorlib](https://colorlib.com/wp/)(read)
 
